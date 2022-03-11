@@ -1,6 +1,6 @@
 # my_levenshtein
 
-my_levenshtein is a project designed to teach how to write an algorithm that calculates a modified version of a Levenshtein number.
+my_levenshtein is a project designed to teach how to write an algorithm that calculates a modified version of a Levenshtein number in JavaScript.
 
 
 ## Usage
